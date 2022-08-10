@@ -266,6 +266,61 @@ while (i < 40) {
 
 /*-------------------------------- PROBLEM -20 --------------------------------*/
 
-for (let i = 412; i <= 456; i += 2) {
+// for (let i = 412; i <= 456; i += 2) {
+//     console.log(i);
+// }
+
+
+/*--------------------------------- PROBLEM -21 --------------------------------*/
+
+/* for (let i = 581; i <= 623; i += 2) {
     console.log(i);
-}
+} */
+
+/*----------------------------- PROBLEM -22 -------------------------------------*/
+
+/* const topics = ['html', 'css', 'bootstrap', 'tailwind', 'javascript'];
+
+for (let i = 0; i < topics.length; i++) {
+    console.log(topics[i]);
+} */
+
+
+/*----------------------------- PROBLEM -23 ------------------------------------*/
+
+/* const mobiles = ['symphony', 'nokia', 'itel', 'samsung', 'walton', 'realme'];
+
+let i = 0;
+
+while (i < mobiles.length) {
+    console.log(mobiles[i]);
+    i++;
+} */
+
+
+/*---------------------------- problem -24 ------------------------------------*/
+
+/* for (let i = 30; i <= 86; i++) {
+    if (i == 44) {
+        break;
+    }
+    console.log(i);
+} */
+
+/*--------------------------- PROBLEM -25 ------------------------------------*/
+
+/* const books = [
+    { name: 'Bangla', price: 120 },
+    { name: 'English', price: 220 },
+    { name: 'Math', price: 420 },
+    { name: 'Physics', price: 170 },
+    { name: 'Chemistry', price: 195 }
+];
+
+for (let i = 0; i < books.length; i++) {
+    let book = books[i];
+    if (book.price > 200) {
+        continue;
+    }
+    console.log(book.name);
+} */
