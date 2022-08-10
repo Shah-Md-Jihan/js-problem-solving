@@ -324,3 +324,78 @@ for (let i = 0; i < books.length; i++) {
     }
     console.log(book.name);
 } */
+
+
+/*------------------------- PROBLEM -26 ---------------------------------------*/
+
+/* function foo() {
+    console.log('foo');
+    bar();
+}
+
+function bar() {
+    console.log('bar');
+}
+
+foo(); */
+
+
+/*----------------------------- PROBLEM -27 ----------------------------------*/
+
+/* function make_avg(num1, num2, num3) {
+    const total = num1 + num2 + num3;
+    const avg = total / 3;
+    return avg;
+}
+
+const average = make_avg(10, 20, 31);
+console.log(average); */
+
+
+/*----------------------------- PROBLEM -28 ----------------------------------*/
+
+/* const numbers = [32, 58, 33, 61, 74, 81];
+
+function make_avg(num) {
+    let sum = 0;
+
+    for (let i = 0; i < num.length; i++) {
+        sum = sum + num[i];
+    }
+
+    let avg = sum / num.length;
+    return avg;
+
+}
+
+const averageOfArray = make_avg(numbers);
+console.log(averageOfArray); */
+
+
+/*----------------- PROBLEM -29 ----------------------*/
+
+/* function odd_oven(num) {
+    if (num % 2 === 0) {
+        return "This is even number";
+    } else {
+        return "This is odd number";
+    }
+}
+
+
+const typeofNumber = odd_oven(31);
+console.log(typeofNumber); */
+
+/* function odd_oven(num) {
+    if (num % 2 === 0) {
+        console.log("This is even number");
+    } else {
+        console.log("This is odd number");
+    }
+}
+
+odd_oven(3); */
+
+/*---------------------- PROBLEM -30 ----------------------------*/
+
+// This problem are same with no 11
