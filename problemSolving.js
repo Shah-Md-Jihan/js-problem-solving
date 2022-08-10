@@ -45,3 +45,52 @@ var 88_price = 34;
 var enum = -1;
 var _$box’78 = ‘Monika’;
 var home-address = “kochu khet” */
+
+// practice problem 6
+
+/* var fruits = ['Apple', 'Banana', 'Orange'];
+
+console.log(fruits.indexOf('Banana'));
+fruits[1] = 'Mango';
+console.log(fruits);
+fruits.pop();
+fruits.push('Watermelon');
+console.log(fruits); */
+
+// practice problem 7
+
+/* function gradingSystem(marks) {
+    if (marks > 100 || marks < 0) {
+        return "Please input marks 0 to 100!";
+    } else {
+        if (marks >= 80) {
+            const result = "You have got A";
+            return result;
+        }
+        else if (marks >= 60) {
+            const result = "You have got B";
+            return result;
+        }
+        else if (marks >= 50) {
+            const result = "You have got C";
+            return result;
+        }
+        else if (marks >= 40) {
+            const result = "You have got D";
+            return result;
+        }
+        else {
+            const result = "You have got F";
+            return result;
+        }
+    }
+}
+
+const myResult = gradingSystem(40);
+console.log(myResult); */
+
+
+
+
+
+
